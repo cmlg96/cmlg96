@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Clara Miguez</h1>
-<h3 align="center">🌲 Ingeniera Forestal enfocada en tecnología geoespacial para la observación de la Tierra. 🌍</h3>
+<h3 align="center">🌲 Ingeniera Forestal enfocada en la tecnología geoespacial para la observación de la Tierra. 🌍</h3>
 
 - 🗺️ Estoy trabajando como **técnica de planificación forestal.**
 
