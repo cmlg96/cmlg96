@@ -1,5 +1,3 @@
-![Descripción de la imagen](https://github.com/cmlg96/cmlg96/edit/main/foto_portada.png)
-
 <h1 align="center">Hola 👋, soy Clara Miguez</h1>
 <h3 align="center">🌲 Ingeniera Forestal enfocada en la tecnología geoespacial para la observación de la Tierra. 🌍</h3>
 
