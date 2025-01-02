@@ -1,4 +1,4 @@
-![alt text](https://github.com/cmlg96/cmlg96/blob/portfolio/portada.jpg)
+![alt text](https://github.com/cmlg96/practice/blob/main/portada.jpg)
 
 <h1 align="center">Hola 👋, soy Clara Miguez</h1>
 <h3 align="center">🌲 Ingeniera Forestal enfocada en la tecnología geoespacial para la observación de la Tierra. 🌍</h3>
